@@ -1,2 +1,8 @@
 # Call
 Electro-acoustic composition for two classical guitars and laptop performer
+
+"Call" is designed to be an experiment in collective improvisation between two guitarists and a third performer controlling electronics, with the electronics dictating the pace of the piece. The electronics are created from prerecorded guitar samples which are manipulated in real time using programs written in ChucK. The piece is written in four movements, the second of which is repeated as a fifth movement. The title refers to a sample used prominently several times during the piece. It is a recording of a llamada (Spanish for "call") which in the flamenco tradition signals a change from one section to another. The use of the llamada, and occasionally other cues, allows for one movement of the piece to lead directly to the next, despite the open ended and improvisatory nature of each section.
+
+The electronic component of the piece was devised as a study in event-driven programming, sampling, and live performance using the ChucK programming language. The piece as a whole was composed in the spring 2015 semester while studying composition with Dr. Mark Rimple at West Chester University of Pennsylvania. To perform the piece, on-the-fly programming is used in the first and third movement by modifying tremolo.ck and harmonics.ck respectively. Throughout the piece, samples are triggered via the keyboard which is enabled by initialize.ck.
+
+Creating performance indications for the laptop performer and finalizing a recording is currently underway as of summer 2017.
